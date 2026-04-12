@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using EventScheduler.Interfaces;
 using EventScheduler.Models;
 using LinqQuery.Interfaces;
@@ -250,3 +251,18 @@ static async Task ViewEvents(IEventService service)
 }
 
 #endregion
+=======
+﻿using System;
+
+namespace Redox_Code_Test
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+
+        }
+    }
+}
+>>>>>>> 682f23eb6c949e42701dc82d6259c4c7d9be39a8
