@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ﻿using EventScheduler.Interfaces;
 using EventScheduler.Models;
 using LinqQuery.Interfaces;
@@ -103,7 +103,7 @@ static void RunLinq(INumberService service)
 // Displays Event Scheduler menu and routes to appropriate operation
 static async Task RunEventScheduler(IEventService service)
 {
-    // ✅ Added loop to keep user inside Event Scheduler
+    //  Added loop to keep user inside Event Scheduler
     while (true)
     {
         Console.WriteLine("\nEVENT SCHEDULER");
@@ -251,18 +251,3 @@ static async Task ViewEvents(IEventService service)
 }
 
 #endregion
-=======
-﻿using System;
-
-namespace Redox_Code_Test
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            
-
-        }
-    }
-}
->>>>>>> 682f23eb6c949e42701dc82d6259c4c7d9be39a8

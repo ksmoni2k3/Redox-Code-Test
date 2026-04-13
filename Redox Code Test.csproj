@@ -5,8 +5,6 @@
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>Redox_Code_Test</RootNamespace>
   </PropertyGroup>
-
-<<<<<<< HEAD
   <ItemGroup>
     <None Remove="appSettings.json" />
   </ItemGroup>
@@ -24,7 +22,4 @@
     <PackageReference Include="Microsoft.Extensions.Options" Version="10.0.5" />
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="10.0.5" />
   </ItemGroup>
-
-=======
->>>>>>> 682f23eb6c949e42701dc82d6259c4c7d9be39a8
 </Project>
